@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Turbo Racer</string>
+    <string name="play">Piloter</string>
+    <string name="garage">Garage</string>
+    <string name="settings">Paramètres</string>
+    <string name="score">Score</string>
+    <string name="speed">Vitesse</string>
+    <string name="nitro">NITRO</string>
+    <string name="coins">Pièces</string>
+    <string name="distance">Distance</string>
+    <string name="game_over">Course Terminée !</string>
+    <string name="restart">Rejouer</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Reprendre</string>
+</resources>

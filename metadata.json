@@ -1,0 +1,6 @@
+{
+  "name": "Turbo Racer",
+  "description": "Jeu de course de voiture arcade avec esquive de trafic, boost nitro, garage personnalisable et graphismes rétro-modernes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
